@@ -1,0 +1,8 @@
+# Ignore meta and config files for language stats
+*.meta linguist-vendored
+*.asset linguist-vendored
+*.mat linguist-vendored
+*.unity linguist-vendored
+
+# Force C# as the main language
+*.cs linguist-language=C#
