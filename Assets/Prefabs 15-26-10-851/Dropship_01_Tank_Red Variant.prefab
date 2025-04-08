@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &343207867369089081
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.2781975
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.4850855
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.6344976
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 30.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.061994
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5201566
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.47899592
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.47899592
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5201566
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -85.282
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414690429794178436, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1795297840712814398, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_Name
+      value: Dropship_01_Tank_Red Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1795297840712814398, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
+      propertyPath: m_TagString
+      value: Object
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f11ffdd8f652d449db78c483f02a15a3, type: 3}
