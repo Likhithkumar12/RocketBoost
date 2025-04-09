@@ -3,6 +3,8 @@
 *.asset linguist-vendored
 *.mat linguist-vendored
 *.unity linguist-vendored
+*.prefab linguist-generated
+*.unity linguist-generated
 
 # Force C# as the main language
 *.cs linguist-language=C#
