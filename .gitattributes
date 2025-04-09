@@ -7,6 +7,6 @@
 *.unity linguist-generated
 *.mat linguist-language=Unity
 *.mat linguist-detectable=false
-\*.wlt linguist-language=YAML
+*.wlt linguist-language=YAML
 # Force C# as the main language
 *.cs linguist-language=C#
