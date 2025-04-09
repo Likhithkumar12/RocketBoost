@@ -5,6 +5,7 @@
 *.unity linguist-vendored
 *.prefab linguist-generated
 *.unity linguist-generated
-
+*.mat linguist-language=Unity
+*.mat linguist-detectable=false
 # Force C# as the main language
 *.cs linguist-language=C#
